@@ -1,4 +1,4 @@
-# Mca-MHT-CET-QUIZE-App 🚀
+# MHT-CET-QUIZE-App 🚀
 
 A comprehensive Desktop Mock Exam Simulator designed for students preparing for the **MAH MCA CET** (Maharashtra Master of Computer Applications Common Entrance Test). This application provides a real-time exam environment with a focus on accuracy, speed, and detailed performance analysis.
 
