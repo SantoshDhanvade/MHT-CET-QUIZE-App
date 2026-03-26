@@ -30,4 +30,4 @@ A comprehensive Desktop Mock Exam Simulator designed for students preparing for 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SantoshDhanvade/Mca-MHT-CET-QUIZE-App.git](https://github.com/SantoshDhanvade/Mca-MHT-CET-QUIZE-App.git)
+   git clone [https://github.com/SantoshDhanvade/MHT-CET-QUIZE-App.git](https://github.com/SantoshDhanvade/MHT-CET-QUIZE-App.git)
